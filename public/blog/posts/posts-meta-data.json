@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "postId": "culturally-sensitive-translations-in-angular-with-ngx-translate",
+    "title": "Culturally Sensitive Translations with ngx-translate in Angular",
+    "description": "Learn how to use ngx-translate in Angular to create culturally sensitive translations that go beyond mere word substitution. This tutorial covers setting up ngx-translate, implementing basic and advanced translations, and ensuring your app resonates with users from diverse cultural backgrounds. Elevate your internationalization skills and provide a truly global user experience!",
+    "keyWords": "ngx-translate, Angular translations, culturally sensitive translations, word substitution, internationalization, i18n, advanced translations, basic translations, diverse cultural backgrounds, global user experience, setting up ngx-translate, translation tutorial, Angular tutorial, multi-language support, localization, user experience, global app development, multilingual Angular app, translation implementation, cross-cultural app development",
+    "image": "https://pullstackdeveloper.com/assets/posts/culturally-sensitive-translations-in-angular-with-ngx-translate/images/cover.webp",
+    "url": "https://pullstackdeveloper.com/post/culturally-sensitive-translations-in-angular-with-ngx-translate"
+  },
+  {
+    "id": 2,
+    "postId": "securely-managing-credentials-in-nestjs-applications-with-azure-key-vault",
+    "title": "Securely Managing Credentials in NestJS Applications with Azure Key Vault",
+    "description": "In modern software development, security is paramount, especially for managing sensitive data. NestJS provides a robust foundation for secure applications, but Azure Key Vault enhances this by offering a centralized, secure repository for storing and managing credentials. Leveraging Azure Key Vault ensures NestJS applications safeguard their credentials, allowing only authorized access.",
+    "keyWords": "NestJS secure credentials\nAzure Key Vault NestJS\nNestJS credential management\nSecure API keys NestJS\nNestJS database password management\nSecondary Keywords:\n\nNestJS security best practices\nAzure Key Vault features\nNestJS dependency injection\nSecure coding practices for NestJS\nCloud-based credential management\nLong-tail Keywords:\n\nHow to use Azure Key Vault with NestJS\nSecuring NestJS applications with Azure Key Vault\nBest way to manage credentials in NestJS\nStep-by-step guide to NestJS and Azure Key Vault\nPractical examples of NestJS and Azure Key Vault integration",
+    "image": "https://firebasestorage.googleapis.com/v0/b/pull-stack-developer.appspot.com/o/angular-blog%2Fposts%2Fnestjs-keyvault%2Fimages%2Fcover.webp?alt=media",
+    "url": "https://pullstackdeveloper.com/post/securely-managing-credentials-in-nestjs-applications-with-azure-key-vault"
+  }
+]
